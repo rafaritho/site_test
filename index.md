@@ -1,5 +1,5 @@
 
-[Image](https://serpro.gov.br/menu/quem-somos/marca-serpro/imagens/marcas/marca-sem-tagline-positivo.png)
+![Image](https://serpro.gov.br/menu/quem-somos/marca-serpro/imagens/marcas/marca-sem-tagline-positivo.png)
 
 ## Página teste de documentação 
 
