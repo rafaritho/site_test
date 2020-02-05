@@ -1,3 +1,9 @@
+---
+layout: default
+title: Segunda
+nav_order: 2
+---
+
 ## Page 2
 
 
