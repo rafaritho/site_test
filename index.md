@@ -1,19 +1,27 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rafaritho/site_test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Image](https://serpro.gov.br/menu/quem-somos/marca-serpro/imagens/marcas/marca-sem-tagline-positivo.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Página teste de documentação 
 
-### Markdown
+Acesso a menu de navegação e barra de pesquisa. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+##Tipos de formatação (Markdown): 
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
+
+
+``` # Header 1 
+##Header 2
+###Header 3
+
+```
+
+##Modelos de lista:
 
 - Bulleted
 - List
@@ -21,13 +29,15 @@ Syntax highlighted code block
 1. Numbered
 2. List
  
-##Tipos de formatação 
+##Formatação de texto: 
 
-**Bold** and _Italic_ and `Code` text
+*Bold** _Italic_ `Code`
+```
+*Bold** and _Italic_ and `Code` text
+```
 
-[Image](https://serpro.gov.br/menu/quem-somos/marca-serpro/imagens/marcas/marca-sem-tagline-positivo.png)
+### Link repositório:
 
-### Jekyll Themes
+[GitHub](http://github.com/rafaritho/site_test/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rafaritho/site_test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
