@@ -11,7 +11,7 @@ nav_order: 1
 Acesso a menu de navegação e barra de pesquisa. 
 
 
-##Tipos de formatação (Markdown): 
+## Tipos de formatação (Markdown): 
 
 # Header 1
 
